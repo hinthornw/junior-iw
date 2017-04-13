@@ -1,13 +1,16 @@
-# Exploring the Space of Adversarial Images
+# Hard Negatives and Selective Dropout for Adversarial Images
 
-> Tabacof, Pedro and Valle, Eduardo. Exploring the Space of Adversarial Images. arXiv preprint arXiv:1510.05328, 2015. 
 
-Please cite us if you use this code. [ArXiv link](http://arxiv.org/abs/1510.05328)
-## Requirements
+
+Building off of code developed by Tabacof & Valle in [ArXiv link](http://arxiv.org/abs/1510.05328)
+
+## Requires
 
 [Torch7](https://github.com/torch/torch7)
 
 GFortran with BLAS
+
+iTorch
 
 ## L-BFGS-B
 
@@ -27,16 +30,6 @@ For MNIST, the code will train the classifier from scratch. A logistic regressio
 ```bash
 cd mnist
 th download.lua
-```
-
-## ImageNet
-
-For ImageNet you can use the pre-trained OverFeat network, which is a deep convolutional neural network that won the localization ILSVRC competition in 2013.
-
-First you must download the weights of the network (thanks to Jonghoon Jin):
-```bash
-cd overfeat
-sh install.sh
 ```
 
 ## Adversarial images
@@ -63,3 +56,9 @@ Options:
 ```
 
 The resulting images and the distortions will be created on the same folder of the image.
+
+## Selective Dropout
+
+An extremely naive version of selective dropout is implemented along with a number of visualization techniques are implemented in the ipynb
+
+A huge thanks to Professor Dobkin at Princeton University for his advice throughout the project.
