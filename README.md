@@ -1,6 +1,6 @@
 # Hard Negatives and Selective Dropout for Adversarial Images
 
-Or my first venture into understanding adversarial learning.
+Or my first venture into adversarial learning.
 
 Building off of code developed by Tabacof & Valle in [ArXiv link](http://arxiv.org/abs/1510.05328)
 
