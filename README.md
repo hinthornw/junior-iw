@@ -1,8 +1,40 @@
 # Hard Negatives and Selective Dropout for Adversarial Images
 
-
+Or my first venture into understanding adversarial learning.
 
 Building off of code developed by Tabacof & Valle in [ArXiv link](http://arxiv.org/abs/1510.05328)
+
+Download the novice paper here ![Paper](written_final_report.pdf).
+
+Or view below:
+
+![Page 0001](images/0001.jpg)
+![Page 0002](images/0002.jpg)
+![Page 0003](images/0003.jpg)
+![Page 0004](images/0004.jpg)
+![Page 0005](images/0005.jpg)
+![Page 0006](images/0006.jpg)
+![Page 0007](images/0007.jpg)
+![Page 0008](images/0008.jpg)
+![Page 0009](images/0009.jpg)
+![Page 0010](images/0010.jpg)
+![Page 0011](images/0011.jpg)
+![Page 0012](images/0012.jpg)
+![Page 0013](images/0013.jpg)
+![Page 0014](images/0014.jpg)
+![Page 0015](images/0015.jpg)
+![Page 0016](images/0016.jpg)
+![Page 0017](images/0017.jpg)
+![Page 0018](images/0018.jpg)
+![Page 0019](images/0019.jpg)
+![Page 0020](images/0020.jpg)
+![Page 0021](images/0021.jpg)
+![Page 0022](images/0022.jpg)
+![Page 0023](images/0023.jpg)
+![Page 0024](images/0024.jpg)
+![Page 0025](images/0025.jpg)
+
+
 
 ## Requires
 
